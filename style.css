@@ -1,0 +1,31 @@
+/* Global */
+:root{
+/* Color */
+--color-grey: #bfbfbf;
+--color-yellow: #fff2cc;
+--color-sky: #e1ecf7;
+--color-purple1: #dfdaf9;
+--color-purple2: #876eda;
+--color-purple3: #68349a;
+--color-black: #000000;
+
+/* Font size */
+--font-large: 48px;
+--font-medium: 28px;
+--font-regular: 18px;
+--font-small: 16px;
+--font-micro: 14px;
+
+/* Font weight */
+--weight-bold: 700;
+--weight-simi-bold: 600;
+--weight-regular: 400;
+
+/* Size */
+
+}
+
+/* Universal tags */
+*{
+    box-sizing: border-box;
+}

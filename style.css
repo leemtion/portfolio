@@ -22,6 +22,8 @@
 --weight-bold: 900;
 --weight-simi-bold: 700;
 --weight-regular: 300;
+--weight-thin: 150;
+
 
 /* Size */
 --size-border-radius: 5px;
@@ -44,8 +46,18 @@ a{
 }
 
 ul{
-    list-style: none;
     padding-left: 0;
+}
+
+li{
+    list-style: none;
+}
+
+button{
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    outline: none;
 }
 
 /* Typography */
@@ -53,7 +65,7 @@ h1 {
     font-size: var(--font-large);
     font-weight: var(--weight-bold);
     color: var(--color-black);
-    margin: 16px 0;
+    margin: 20px 0;
 }
 
 h2 {
@@ -81,7 +93,7 @@ p {
 #navbar{
     display: flex;
     justify-content: space-between;
-    background-color: var(--color-purple1);
+    background-color: var(--color-white);
     align-items: center;
     color: var(--color-purple3);
     padding: 15px;
@@ -106,9 +118,31 @@ p {
 }
 
 .navbar__menu__item:hover{
-    background-color: var(--color-yellow);
+    background-color: var(--color-purple1);
 }
 
 .navbar__menu__item.active{
     border: 1px solid var(--color-white);
+}
+
+
+/* Home */
+#home{
+    background: url('imgs/projects/home_background.png') center/cover no-repeat;
+    padding: 45px;
+    text-align: center;
+}
+.home__branding{
+    width: 150px;
+    height: 150px;
+}
+
+.home__join{
+    font-size: var(--font-micro);
+    font-weight: var(--weight-thin);
+    margin: 20px;
+    padding: 6px 12px;
+    border: 1px solid var(--color-purple3);
+    border-radius: var(--size-border-radius);
+    color: var(--color-purple3)
 }

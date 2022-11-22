@@ -7,8 +7,8 @@ const rootRouter = express.Router();
 
 
 rootRouter.get("/", protectorMiddleware, home);
-rootRouter.route("/TermsofService").get(TermsofService);
-rootRouter.route("/TermsofService").get(Privacy);
+rootRouter.route("/termsofservice").get(TermsofService);
+rootRouter.route("/privacy").get(Privacy);
 
 
 

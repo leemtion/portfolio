@@ -230,7 +230,7 @@ p {
 
 .use__title, .use__description{
     color: var(--color-darkgrey);
-    line-height: 1.2;
+    line-height: 1.3;
 }
 
 .use__description{

@@ -351,6 +351,16 @@ p {
     margin: 2px;
     background-color: whitesmoke
 }
+.start{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 100px;
+    margin: 2px;
+    background-color: whitesmoke
+}
 
 .project.invisible{
     display:none;

@@ -346,10 +346,10 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 280px;
-    height: 250px;
+    width: 480px;
+    height: 400px;
     margin: 2px;
-    background-color: var(--color-sky);
+    background-color: whitesmoke
 }
 
 .project.invisible{

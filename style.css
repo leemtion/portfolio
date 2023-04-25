@@ -429,7 +429,8 @@ p {
     margin: 40px;
 }
 
-.testimonial{
+.testimonials{
+    text-align: center;
     display: flex;
     margin: 32px;
 }

@@ -351,21 +351,22 @@ p {
     margin: 2px;
     background-color: white
 }
+.start__box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .start{
-    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 180px;
     height: 100px;
     margin: 2px;
-    background-color: whitesmoke
 }
 .start__link{
-
         width: 100px;
         height: 100px;
-
 }
 
 .project.invisible{

@@ -361,6 +361,12 @@ p {
     margin: 2px;
     background-color: whitesmoke
 }
+.start__link{
+
+        width: 100px;
+        height: 100px;
+
+}
 
 .project.invisible{
     display:none;

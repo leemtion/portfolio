@@ -476,7 +476,9 @@ p {
 
 .contact__title{
     margin: 32px 0;
-
+}
+.contact__rights_detail{
+    font-size: small;
 }
 
 /* arrow -up */

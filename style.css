@@ -480,6 +480,9 @@ p {
 .contact__detail{
     font-size: smaller;
 }
+.contact__detail__more{
+    font-size: x-small;
+}
 
 /* arrow -up */
 .arrow-up{

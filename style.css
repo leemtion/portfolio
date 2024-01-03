@@ -478,7 +478,7 @@ p {
     margin: 32px 0;
 }
 .contact__detail{
-    font-size: small;
+    font-size: smaller;
 }
 
 /* arrow -up */

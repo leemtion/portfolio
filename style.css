@@ -603,7 +603,7 @@ img.record__logo{
 
     .project{
         /* flex-grow: 1; */
-        height: 250px;
+        height: 230px;
         background-color: yellowgreen;
     }
     .section{
@@ -638,8 +638,8 @@ img.record__logo{
     font-size: 17px;
 }
 img.fit-picture{
-    width: 35px;
-    height:35px;
+    width: 40px;
+    height:40px;
 }
 .navbar__toggle-btn{
     font-size: 20px;

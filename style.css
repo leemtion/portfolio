@@ -412,7 +412,7 @@ p {
     left: 0;
     /* opacity: 0;
     transform: translateY(10px); */
-    opacity: 0.8;
+    opacity: 0.5;
     transform: translateY(0px);
     /* transition: all var(--animation-duration) ease-in; */
 }
@@ -586,7 +586,7 @@ p {
 
     .project{
         flex-grow: 1;
-        height: 200px;
+        height: 100px;
     }
 
     .testimonial__avatar{

@@ -600,7 +600,9 @@ p {
         transform: translateY(0px); */
         opacity: 0;
     }
-
+    #home{
+        padding-bottom: 20px;
+    }
 }
 
 .start__box{

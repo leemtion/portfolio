@@ -194,11 +194,17 @@ p {
 }
 
 /* About */
-
+/* 
 #about h1{
     padding-top: 50px;
+} */
+.about__span{
+    padding-top: 50px;
+    font-size: var(--font-large);
+    font-weight: var(--weight-bold);
+    color: var(--color-black);
+    margin: 20px 0;
 }
-
 .about__use{
     display: flex;
     justify-content: space-between;
@@ -296,7 +302,13 @@ p {
 #work h1{
     padding-top: 40px;
 }
-
+.work__span{
+    padding-top: 50px;
+    font-size: var(--font-large);
+    font-weight: var(--weight-bold);
+    color: var(--color-black);
+    margin: 20px 0;
+}
 .work__categories{
     margin-top: 50px;
     margin-bottom: 40px;

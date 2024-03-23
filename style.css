@@ -406,8 +406,8 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     top: 0;
     left: 0;
     /* opacity: 0;
@@ -592,6 +592,13 @@ p {
     .testimonial__avatar{
         width: 80px;
         height: 80px;
+    }
+    .project:visited .project__description{
+        /* opacity: 0.8;
+        transform: translateY(0px); */
+        opacity: 0;
+        transform: translateY(10px);
+        transition: all var(--animation-duration) ease-in;
     }
 
 }

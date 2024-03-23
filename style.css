@@ -402,7 +402,7 @@ p {
 
 .project__description{
     position: absolute;
-    background-color: #F0EDFD;
+    background-color: #F8F5FE;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -412,7 +412,7 @@ p {
     left: 0;
     /* opacity: 0;
     transform: translateY(10px); */
-    opacity: 0.5;
+    opacity: 0.85;
     transform: translateY(0px);
     /* transition: all var(--animation-duration) ease-in; */
 }

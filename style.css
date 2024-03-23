@@ -183,7 +183,7 @@ p {
 /* Section common */
 
 .section{
-    padding: 50px;
+    padding: 55px;
     text-align: center;
     margin: auto;
 }
@@ -535,12 +535,12 @@ p {
     }
     .work__span{
         display: block;
-        padding-top: 0px;
+        padding-top: 5px;
         margin: 0px;
     }
     .about__span{
         display: block;
-        padding-top: 0px;
+        padding-top: 5px;
         margin: 0px;
     }
     :root{

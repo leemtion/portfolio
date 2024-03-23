@@ -518,7 +518,7 @@ p {
         display: block;
     }
     :root{
-        --font-large: 24px;
+        --font-large: 28px;
         --font-regular: 17px;
     }
     #navbar{

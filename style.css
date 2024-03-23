@@ -294,7 +294,7 @@ p {
 
 /* Work */
 #work h1{
-    padding-top: 50px;
+    padding-top: 40px;
 }
 
 .work__categories{
@@ -524,6 +524,7 @@ p {
     :root{
         --font-large: 28px;
         --font-regular: 17px;
+        --font-medium: 24px;
     }
     #navbar{
         flex-direction: column;

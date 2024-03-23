@@ -535,9 +535,13 @@ p {
     }
     .work__span{
         display: block;
+        padding-top: 0px;
+        margin: 0px;
     }
     .about__span{
         display: block;
+        padding-top: 0px;
+        margin: 0px;
     }
     :root{
         --font-large: 28px;

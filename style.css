@@ -593,7 +593,7 @@ p {
         width: 80px;
         height: 80px;
     }
-    .project:visited .project__description{
+    .project .project__description{
         /* opacity: 0.8;
         transform: translateY(0px); */
         opacity: 0;

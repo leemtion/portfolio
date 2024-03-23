@@ -517,7 +517,8 @@ p {
         display: block;
     }
     :root{
-        --font-large: 20px;
+        --font-large: 24px;
+        --font-regular: 17px;
     }
     #navbar{
         flex-direction: column;

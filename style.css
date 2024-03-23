@@ -624,5 +624,12 @@ p {
 }
 .use__title{
     font-size: 17px;
-    
+}
+.fit-picture{
+    font-size: 15px;
+}
+.navbar__toggle-btn{
+    font-size: 15px;
+    top: 20px;
+    right: 15px;
 }

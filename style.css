@@ -367,7 +367,8 @@ p {
 .start__link{
         width: 100px;
         height: 100px;
-        font-size: 15px;
+        font-size: 18px;
+        font-weight: 400;
 }
 
 .project.invisible{

@@ -161,6 +161,9 @@ p {
     padding-top: 150px;
     text-align: center;
 }
+.home__title{
+    line-height: 135%;
+}
 
 .home__branding{
     width: 150px;

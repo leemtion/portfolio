@@ -534,6 +534,16 @@ p {
     pointer-events: auto;
 }
 
+img.fit-picture{
+    width: 60px;
+    height:60px;
+}
+
+img.record__logo{
+    width: 30px;
+    height: 30px;
+}
+
 /* For below 768px screen width */
 
 @media screen and (max-width: 768px){
@@ -627,11 +637,12 @@ p {
 .use__title{
     font-size: 17px;
 }
-.fit-picture{
-    font-size: 15px;
+img.fit-picture{
+    width: 35px;
+    height:35px;
 }
 .navbar__toggle-btn{
-    font-size: 15px;
+    font-size: 20px;
     top: 20px;
-    right: 15px;
+    right: 10px;
 }

@@ -533,6 +533,12 @@ p {
     .navbar__toggle-btn{
         display: block;
     }
+    .work__span{
+        display: block;
+    }
+    .about__span{
+        display: block;
+    }
     :root{
         --font-large: 28px;
         --font-regular: 17px;

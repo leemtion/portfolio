@@ -187,6 +187,11 @@ p {
     text-align: center;
     margin: auto;
 }
+.section__work{
+    padding: 65px;
+    text-align: center;
+    margin: auto;
+}
 
 .section__container{
     max-width: 1200px;
@@ -585,12 +590,17 @@ p {
     }
 
     .project{
-        flex-grow: 1;
-        height: 400px;
+        /* flex-grow: 1; */
+        height: 300px;
         background-color: yellowgreen;
     }
     .section{
         padding-top: 30px;
+    }
+    .section__work{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 15px;
     }
     .testimonial__avatar{
         width: 80px;

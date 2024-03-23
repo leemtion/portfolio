@@ -535,12 +535,12 @@ p {
     }
     .work__span{
         display: block;
-        padding-top: 5px;
+        padding-top: 8px;
         margin: 0px;
     }
     .about__span{
         display: block;
-        padding-top: 5px;
+        padding-top: 8px;
         margin: 0px;
     }
     :root{

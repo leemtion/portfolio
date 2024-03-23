@@ -191,6 +191,8 @@ p {
     padding: 65px;
     text-align: center;
     margin: auto;
+    max-width: 1200px;
+    margin:auto;
 }
 
 .section__container{

@@ -586,6 +586,7 @@ p {
 
     .project{
         flex-grow: 1;
+        height: 200px;
     }
 
     .testimonial__avatar{

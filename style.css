@@ -513,8 +513,8 @@ p {
     .navbar__toggle-btn{
         display: block;
     }
-    .home__title{
-        font-size: 20px;
+    :root{
+        --font-large: 20px;
     }
     #navbar{
         flex-direction: column;
@@ -538,6 +538,9 @@ p {
         flex-direction: column;
     }
     .arrow-up{
+        display:none;
+    }
+    .arrow-up.visible {
         display:none;
     }
 

@@ -13,6 +13,7 @@ app.use(express.urlencoded({extended:true}));
 app.use(express.json());
 
 app.use("/", rootRouter);
+app.use("/guide", rootRouter)
 
 
 export default app; 
